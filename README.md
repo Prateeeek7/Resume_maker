@@ -71,5 +71,5 @@ Made with ❤️ by Pratik
 
 ---
 
-📷 [Resume Preview](resume.png)
+📷 [Resume Preview](Resume.png)
 
